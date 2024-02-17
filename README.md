@@ -14,3 +14,4 @@ Wireframe link: https://www.figma.com/file/ylHNFJNsQ0wU84BRUnYP1W/2-Task-?type=d
 Prototype link: https://www.figma.com/file/2e5deZWzkptZOX7uhuAx4a/3-Task?type=design&node-id=0%3A1&mode=design&t=JZcFQ1cdCOOH5931-1
 
 
+Note :.fig files are not compatible in GitHub itself, so Download .fig files in your desktop.
